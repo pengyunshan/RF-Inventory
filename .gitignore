@@ -1,0 +1,11 @@
+.spyproject
+date_expanded_prompts
+weekly_expanded_prompts
+out_prompts
+*.csv
+splits_v2
+data.pq
+*/__pycache__
+experiments
+*.pdf
+.vscode

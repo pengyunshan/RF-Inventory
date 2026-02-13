@@ -1,0 +1,22 @@
+# RF合约库存预估模型框架依赖包
+
+# 基础数据处理
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 机器学习
+scikit-learn>=1.2.0
+
+# 数据存储
+pyarrow>=8.0.0  # 用于parquet文件读写
+
+# 进度条
+tqdm>=4.64.0
+
+# 可视化
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# TensorFlow模型（可选，用于高级模型）
+tensorflow>=2.13.0
+tensorflow_probability>=0.21.0
